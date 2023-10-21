@@ -52,7 +52,7 @@ cd dojo-starter && sozo build && sozo migrate
    - Enter `http://localhost:5050` as the RPC Node.
    - Enter the World Address and System Address gotten from `sozo migrate` as the World Address and System Address respectively.
 3. Navigate to the `Assets -> Scenes -> Game` in the Project Hierarchy and open the `Game` scene.
-4. In the Game Hierarchy, select the `PlayerCanvas -> Astronaut` object. In the Inspector, you should see a `Astronaut` component. Fill in the `Player Address` field with the address of the player and `Player key` with the from `Katana` terminal.
+4. In the Game Hierarchy, select the `Astronaut` object. In the Inspector, you should see a `Astronaut` component. Fill in the `Player Address` field with the address of the player and `Player key` with the from `Katana` terminal.
 
 **Video Demo:**
 
